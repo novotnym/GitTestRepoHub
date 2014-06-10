@@ -11,6 +11,7 @@ public class gitTest {
 		System.out.println("new line2");
 		System.out.println("new line3");
 		System.out.println("new line4");
+		System.out.println("new line5");
 
 	}
 
