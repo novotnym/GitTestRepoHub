@@ -3,6 +3,7 @@ package cz.test;
 //comment
 //comment1
 //comment2
+//comment3
 public class gitTest {
 
 	public static void main(String[] args) {
