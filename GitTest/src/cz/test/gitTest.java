@@ -10,7 +10,7 @@ public class gitTest {
 		System.out.println("new line1");
 		System.out.println("new line2");
 		System.out.println("new line3");
-
+		System.out.println("new line4");
 
 	}
 
