@@ -6,7 +6,7 @@ public class gitTest {
 
 
 		System.out.println("Git is fun30 TestFix");
-		System.out.println("new line");
+		System.out.println("new line 30");
 
 
 	}
