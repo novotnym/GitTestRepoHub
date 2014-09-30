@@ -21,6 +21,7 @@ public class gitTest {
 		System.out.println("29.9.2014");
 		System.out.println("30.9.20141");
 		
+		System.out.println("upd");
 	}
 
 }
