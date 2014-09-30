@@ -19,7 +19,7 @@ public class gitTest {
 		System.out.println("new line4");
 		System.out.println("new line5");
 		System.out.println("29.9.2014");
-		System.out.println("30.9.2014");
+		System.out.println("30.9.2014 1");
 	}
 
 }
